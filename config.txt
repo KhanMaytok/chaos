@@ -1,0 +1,4 @@
+spells = qwerasdf
+spell/time(s): 
+song of escape: 9
+repair: n
